@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\TraditionalT9\TraditionalT9\src\main\assets"><file name="en-utf8.txt" path="D:\TraditionalT9\TraditionalT9\src\main\assets\en-utf8.txt"/><file name="ru-utf8.txt" path="D:\TraditionalT9\TraditionalT9\src\main\assets\ru-utf8.txt"/></source></dataSet><dataSet config="debug"><source path="D:\TraditionalT9\TraditionalT9\src\debug\assets"/></dataSet></merger>

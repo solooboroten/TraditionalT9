@@ -1,0 +1,99 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\TraditionalT9\TraditionalT9\src\main\AndroidManifest.xml:2:1-59:12
+	xmlns:android
+		ADDED from D:\TraditionalT9\TraditionalT9\src\main\AndroidManifest.xml:2:11-69
+	package
+		ADDED from D:\TraditionalT9\TraditionalT9\src\main\AndroidManifest.xml:3:5-47
+		INJECTED from D:\TraditionalT9\TraditionalT9\src\main\AndroidManifest.xml
+		INJECTED from D:\TraditionalT9\TraditionalT9\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\TraditionalT9\TraditionalT9\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\TraditionalT9\TraditionalT9\src\main\AndroidManifest.xml
+		INJECTED from D:\TraditionalT9\TraditionalT9\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\TraditionalT9\TraditionalT9\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\TraditionalT9\TraditionalT9\src\main\AndroidManifest.xml
+		INJECTED from D:\TraditionalT9\TraditionalT9\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from D:\TraditionalT9\TraditionalT9\src\main\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from D:\TraditionalT9\TraditionalT9\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from D:\TraditionalT9\TraditionalT9\src\main\AndroidManifest.xml
+		INJECTED from D:\TraditionalT9\TraditionalT9\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\TraditionalT9\TraditionalT9\src\main\AndroidManifest.xml:8:9-34
+		INJECTED from D:\TraditionalT9\TraditionalT9\src\main\AndroidManifest.xml
+		INJECTED from D:\TraditionalT9\TraditionalT9\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\TraditionalT9\TraditionalT9\src\main\AndroidManifest.xml:10:5-80
+	android:name
+		ADDED from D:\TraditionalT9\TraditionalT9\src\main\AndroidManifest.xml:10:22-78
+uses-configuration
+ADDED from D:\TraditionalT9\TraditionalT9\src\main\AndroidManifest.xml:11:2-15:4
+	android:reqKeyboardType
+		ADDED from D:\TraditionalT9\TraditionalT9\src\main\AndroidManifest.xml:14:3-35
+	android:reqHardKeyboard
+		ADDED from D:\TraditionalT9\TraditionalT9\src\main\AndroidManifest.xml:13:3-33
+	android:reqFiveWayNav
+		ADDED from D:\TraditionalT9\TraditionalT9\src\main\AndroidManifest.xml:12:3-31
+application
+ADDED from D:\TraditionalT9\TraditionalT9\src\main\AndroidManifest.xml:21:5-57:16
+	android:label
+		ADDED from D:\TraditionalT9\TraditionalT9\src\main\AndroidManifest.xml:24:9-41
+	android:allowBackup
+		ADDED from D:\TraditionalT9\TraditionalT9\src\main\AndroidManifest.xml:22:9-36
+	android:icon
+		ADDED from D:\TraditionalT9\TraditionalT9\src\main\AndroidManifest.xml:23:9-45
+	android:theme
+		ADDED from D:\TraditionalT9\TraditionalT9\src\main\AndroidManifest.xml:25:9-40
+service#org.nyanya.android.traditionalt9.TraditionalT9
+ADDED from D:\TraditionalT9\TraditionalT9\src\main\AndroidManifest.xml:26:9-36:19
+	android:permission
+		ADDED from D:\TraditionalT9\TraditionalT9\src\main\AndroidManifest.xml:28:13-70
+	android:name
+		ADDED from D:\TraditionalT9\TraditionalT9\src\main\AndroidManifest.xml:27:13-74
+intent-filter#android.view.InputMethod
+ADDED from D:\TraditionalT9\TraditionalT9\src\main\AndroidManifest.xml:29:13-31:29
+action#android.view.InputMethod
+ADDED from D:\TraditionalT9\TraditionalT9\src\main\AndroidManifest.xml:30:17-67
+	android:name
+		ADDED from D:\TraditionalT9\TraditionalT9\src\main\AndroidManifest.xml:30:25-64
+meta-data#android.view.im
+ADDED from D:\TraditionalT9\TraditionalT9\src\main\AndroidManifest.xml:33:13-35:50
+	android:resource
+		ADDED from D:\TraditionalT9\TraditionalT9\src\main\AndroidManifest.xml:35:17-47
+	android:name
+		ADDED from D:\TraditionalT9\TraditionalT9\src\main\AndroidManifest.xml:34:17-47
+service#org.nyanya.android.traditionalt9.DBUpdateService
+ADDED from D:\TraditionalT9\TraditionalT9\src\main\AndroidManifest.xml:38:3-46
+	android:name
+		ADDED from D:\TraditionalT9\TraditionalT9\src\main\AndroidManifest.xml:38:12-43
+activity#org.nyanya.android.traditionalt9.TraditionalT9Settings
+ADDED from D:\TraditionalT9\TraditionalT9\src\main\AndroidManifest.xml:40:9-46:20
+	android:label
+		ADDED from D:\TraditionalT9\TraditionalT9\src\main\AndroidManifest.xml:42:13-59
+	android:name
+		ADDED from D:\TraditionalT9\TraditionalT9\src\main\AndroidManifest.xml:41:13-82
+intent-filter#android.intent.action.MAIN
+ADDED from D:\TraditionalT9\TraditionalT9\src\main\AndroidManifest.xml:43:13-45:29
+action#android.intent.action.MAIN
+ADDED from D:\TraditionalT9\TraditionalT9\src\main\AndroidManifest.xml:44:17-69
+	android:name
+		ADDED from D:\TraditionalT9\TraditionalT9\src\main\AndroidManifest.xml:44:25-66
+activity#org.nyanya.android.traditionalt9.AddWordAct
+ADDED from D:\TraditionalT9\TraditionalT9\src\main\AndroidManifest.xml:47:9-52:20
+	android:label
+		ADDED from D:\TraditionalT9\TraditionalT9\src\main\AndroidManifest.xml:50:13-60
+	android:theme
+		ADDED from D:\TraditionalT9\TraditionalT9\src\main\AndroidManifest.xml:48:13-56
+	android:excludeFromRecents
+		ADDED from D:\TraditionalT9\TraditionalT9\src\main\AndroidManifest.xml:51:4-37
+	android:name
+		ADDED from D:\TraditionalT9\TraditionalT9\src\main\AndroidManifest.xml:49:13-71
+activity#org.nyanya.android.traditionalt9.Menu1
+ADDED from D:\TraditionalT9\TraditionalT9\src\main\AndroidManifest.xml:53:9-56:20
+	android:theme
+		ADDED from D:\TraditionalT9\TraditionalT9\src\main\AndroidManifest.xml:54:13-56
+	android:name
+		ADDED from D:\TraditionalT9\TraditionalT9\src\main\AndroidManifest.xml:55:13-66

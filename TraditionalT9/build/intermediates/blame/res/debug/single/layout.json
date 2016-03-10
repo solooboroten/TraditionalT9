@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\TraditionalT9\\TraditionalT9\\build\\intermediates\\res\\merged\\debug\\layout\\mainviewold.xml",
+        "source": "D:\\TraditionalT9\\TraditionalT9\\src\\main\\res\\layout\\mainviewold.xml"
+    },
+    {
+        "merged": "D:\\TraditionalT9\\TraditionalT9\\build\\intermediates\\res\\merged\\debug\\layout\\menuview.xml",
+        "source": "D:\\TraditionalT9\\TraditionalT9\\src\\main\\res\\layout\\menuview.xml"
+    },
+    {
+        "merged": "D:\\TraditionalT9\\TraditionalT9\\build\\intermediates\\res\\merged\\debug\\layout\\mainview.xml",
+        "source": "D:\\TraditionalT9\\TraditionalT9\\src\\main\\res\\layout\\mainview.xml"
+    },
+    {
+        "merged": "D:\\TraditionalT9\\TraditionalT9\\build\\intermediates\\res\\merged\\debug\\layout\\lbuttonhold.xml",
+        "source": "D:\\TraditionalT9\\TraditionalT9\\src\\main\\res\\layout\\lbuttonhold.xml"
+    },
+    {
+        "merged": "D:\\TraditionalT9\\TraditionalT9\\build\\intermediates\\res\\merged\\debug\\layout\\symbolview.xml",
+        "source": "D:\\TraditionalT9\\TraditionalT9\\src\\main\\res\\layout\\symbolview.xml"
+    },
+    {
+        "merged": "D:\\TraditionalT9\\TraditionalT9\\build\\intermediates\\res\\merged\\debug\\layout\\addwordview.xml",
+        "source": "D:\\TraditionalT9\\TraditionalT9\\src\\main\\res\\layout\\addwordview.xml"
+    },
+    {
+        "merged": "D:\\TraditionalT9\\TraditionalT9\\build\\intermediates\\res\\merged\\debug\\layout\\my_list_item.xml",
+        "source": "D:\\TraditionalT9\\TraditionalT9\\src\\main\\res\\layout\\my_list_item.xml"
+    },
+    {
+        "merged": "D:\\TraditionalT9\\TraditionalT9\\build\\intermediates\\res\\merged\\debug\\layout\\lbuttonnohold.xml",
+        "source": "D:\\TraditionalT9\\TraditionalT9\\src\\main\\res\\layout\\lbuttonnohold.xml"
+    },
+    {
+        "merged": "D:\\TraditionalT9\\TraditionalT9\\build\\intermediates\\res\\merged\\debug\\layout\\rbutton.xml",
+        "source": "D:\\TraditionalT9\\TraditionalT9\\src\\main\\res\\layout\\rbutton.xml"
+    }
+]

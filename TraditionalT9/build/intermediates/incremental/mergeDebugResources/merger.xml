@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="D:\TraditionalT9\TraditionalT9\src\main\res"/><source path="D:\TraditionalT9\TraditionalT9\build\generated\res\rs\debug"/><source path="D:\TraditionalT9\TraditionalT9\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="D:\TraditionalT9\TraditionalT9\src\debug\res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="D:\TraditionalT9\TraditionalT9\src\main\res"><file name="angry" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable\angry.png" qualifiers="" type="drawable"/><file name="balloon" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable\balloon.png" qualifiers="" type="drawable"/><file name="bggradient" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable\bggradient.xml" qualifiers="" type="drawable"/><file name="big_grin" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable\big_grin.png" qualifiers="" type="drawable"/><file name="bomb" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable\bomb.png" qualifiers="" type="drawable"/><file name="broken_heart" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable\broken_heart.png" qualifiers="" type="drawable"/><file name="button_custom" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable\button_custom.xml" qualifiers="" type="drawable"/><file name="button_grad" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable\button_grad.xml" qualifiers="" type="drawable"/><file name="button_gradient" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable\button_gradient.xml" qualifiers="" type="drawable"/><file name="button_gradient_blue" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable\button_gradient_blue.xml" qualifiers="" type="drawable"/><file name="button_gradient_orange" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable\button_gradient_orange.xml" qualifiers="" type="drawable"/><file name="button_grad_press" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable\button_grad_press.xml" qualifiers="" type="drawable"/><file name="cat" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable\cat.png" qualifiers="" type="drawable"/><file name="clown" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable\clown.png" qualifiers="" type="drawable"/><file name="confused" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable\confused.png" qualifiers="" type="drawable"/><file name="cool" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable\cool.png" qualifiers="" type="drawable"/><file name="crying" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable\crying.png" qualifiers="" type="drawable"/><file name="crying2" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable\crying2.png" qualifiers="" type="drawable"/><file name="dead" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable\dead.png" qualifiers="" type="drawable"/><file name="devil" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable\devil.png" qualifiers="" type="drawable"/><file name="dizzy" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable\dizzy.png" qualifiers="" type="drawable"/><file name="dog" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable\dog.png" qualifiers="" type="drawable"/><file name="dont_tell_anyone" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable\dont_tell_anyone.png" qualifiers="" type="drawable"/><file name="drinks" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable\drinks.png" qualifiers="" type="drawable"/><file name="drooling" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable\drooling.png" qualifiers="" type="drawable"/><file name="flower" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable\flower.png" qualifiers="" type="drawable"/><file name="heart" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable\heart.png" qualifiers="" type="drawable"/><file name="holdicon" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable\holdicon.png" qualifiers="" type="drawable"/><file name="hug" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable\hug.png" qualifiers="" type="drawable"/><file name="ic_launcher" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable\ic_launcher.png" qualifiers="" type="drawable"/><file name="ime_en_lang_lower" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable\ime_en_lang_lower.png" qualifiers="" type="drawable"/><file name="ime_en_lang_single" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable\ime_en_lang_single.png" qualifiers="" type="drawable"/><file name="ime_en_lang_upper" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable\ime_en_lang_upper.png" qualifiers="" type="drawable"/><file name="ime_en_text_lower" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable\ime_en_text_lower.png" qualifiers="" type="drawable"/><file name="ime_en_text_single" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable\ime_en_text_single.png" qualifiers="" type="drawable"/><file name="ime_en_text_upper" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable\ime_en_text_upper.png" qualifiers="" type="drawable"/><file name="ime_number" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable\ime_number.png" qualifiers="" type="drawable"/><file name="ime_ru_lang_lower" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable\ime_ru_lang_lower.png" qualifiers="" type="drawable"/><file name="ime_ru_lang_single" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable\ime_ru_lang_single.png" qualifiers="" type="drawable"/><file name="ime_ru_lang_upper" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable\ime_ru_lang_upper.png" qualifiers="" type="drawable"/><file name="ime_ru_text_lower" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable\ime_ru_text_lower.png" qualifiers="" type="drawable"/><file name="ime_ru_text_single" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable\ime_ru_text_single.png" qualifiers="" type="drawable"/><file name="ime_ru_text_upper" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable\ime_ru_text_upper.png" qualifiers="" type="drawable"/><file name="kiss" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable\kiss.png" qualifiers="" type="drawable"/><file name="laughing" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable\laughing.png" qualifiers="" type="drawable"/><file name="ligthbulb" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable\ligthbulb.png" qualifiers="" type="drawable"/><file name="location" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable\location.png" qualifiers="" type="drawable"/><file name="loser" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable\loser.png" qualifiers="" type="drawable"/><file name="love" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable\love.png" qualifiers="" type="drawable"/><file name="music" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable\music.png" qualifiers="" type="drawable"/><file name="nerd" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable\nerd.png" qualifiers="" type="drawable"/><file name="not_talking" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable\not_talking.png" qualifiers="" type="drawable"/><file name="num0" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable\num0.png" qualifiers="" type="drawable"/><file name="num1" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable\num1.png" qualifiers="" type="drawable"/><file name="num2" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable\num2.png" qualifiers="" type="drawable"/><file name="num3" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable\num3.png" qualifiers="" type="drawable"/><file name="num4" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable\num4.png" qualifiers="" type="drawable"/><file name="num5" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable\num5.png" qualifiers="" type="drawable"/><file name="num6" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable\num6.png" qualifiers="" type="drawable"/><file name="num7" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable\num7.png" qualifiers="" type="drawable"/><file name="num8" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable\num8.png" qualifiers="" type="drawable"/><file name="num9" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable\num9.png" qualifiers="" type="drawable"/><file name="numstar" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable\numstar.png" qualifiers="" type="drawable"/><file name="page_next" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable\page_next.png" qualifiers="" type="drawable"/><file name="page_prev" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable\page_prev.png" qualifiers="" type="drawable"/><file name="party" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable\party.png" qualifiers="" type="drawable"/><file name="pig" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable\pig.png" qualifiers="" type="drawable"/><file name="poundkey" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable\poundkey.png" qualifiers="" type="drawable"/><file name="rcycle" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable\rcycle.png" qualifiers="" type="drawable"/><file name="sacred" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable\sacred.png" qualifiers="" type="drawable"/><file name="sad" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable\sad.png" qualifiers="" type="drawable"/><file name="scared" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable\scared.png" qualifiers="" type="drawable"/><file name="sick" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable\sick.png" qualifiers="" type="drawable"/><file name="silly" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable\silly.png" qualifiers="" type="drawable"/><file name="sleeping" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable\sleeping.png" qualifiers="" type="drawable"/><file name="smile" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable\smile.png" qualifiers="" type="drawable"/><file name="smiley1" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable\smiley1.gif" qualifiers="" type="drawable"/><file name="smoking" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable\smoking.png" qualifiers="" type="drawable"/><file name="smug" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable\smug.png" qualifiers="" type="drawable"/><file name="stars" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable\stars.png" qualifiers="" type="drawable"/><file name="straight_face" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable\straight_face.png" qualifiers="" type="drawable"/><file name="thinking" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable\thinking.png" qualifiers="" type="drawable"/><file name="tongue" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable\tongue.png" qualifiers="" type="drawable"/><file name="vomit" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable\vomit.png" qualifiers="" type="drawable"/><file name="wave" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable\wave.png" qualifiers="" type="drawable"/><file name="whew" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable\whew.png" qualifiers="" type="drawable"/><file name="winking" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable\winking.png" qualifiers="" type="drawable"/><file name="win_bg" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable\win_bg.xml" qualifiers="" type="drawable"/><file name="yawn" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable\yawn.png" qualifiers="" type="drawable"/><file name="zombie" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable\zombie.png" qualifiers="" type="drawable"/><file name="holdicon" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable-hdpi\holdicon.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable-hdpi\ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file name="ime_en_lang_lower" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable-hdpi\ime_en_lang_lower.png" qualifiers="hdpi-v4" type="drawable"/><file name="ime_en_lang_single" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable-hdpi\ime_en_lang_single.png" qualifiers="hdpi-v4" type="drawable"/><file name="ime_en_lang_upper" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable-hdpi\ime_en_lang_upper.png" qualifiers="hdpi-v4" type="drawable"/><file name="ime_en_text_lower" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable-hdpi\ime_en_text_lower.png" qualifiers="hdpi-v4" type="drawable"/><file name="ime_en_text_single" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable-hdpi\ime_en_text_single.png" qualifiers="hdpi-v4" type="drawable"/><file name="ime_en_text_upper" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable-hdpi\ime_en_text_upper.png" qualifiers="hdpi-v4" type="drawable"/><file name="ime_number" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable-hdpi\ime_number.png" qualifiers="hdpi-v4" type="drawable"/><file name="ime_ru_lang_lower" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable-hdpi\ime_ru_lang_lower.png" qualifiers="hdpi-v4" type="drawable"/><file name="ime_ru_lang_single" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable-hdpi\ime_ru_lang_single.png" qualifiers="hdpi-v4" type="drawable"/><file name="ime_ru_lang_upper" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable-hdpi\ime_ru_lang_upper.png" qualifiers="hdpi-v4" type="drawable"/><file name="ime_ru_text_lower" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable-hdpi\ime_ru_text_lower.png" qualifiers="hdpi-v4" type="drawable"/><file name="ime_ru_text_single" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable-hdpi\ime_ru_text_single.png" qualifiers="hdpi-v4" type="drawable"/><file name="ime_ru_text_upper" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable-hdpi\ime_ru_text_upper.png" qualifiers="hdpi-v4" type="drawable"/><file name="key_eight" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable-hdpi\key_eight.png" qualifiers="hdpi-v4" type="drawable"/><file name="key_five" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable-hdpi\key_five.png" qualifiers="hdpi-v4" type="drawable"/><file name="key_four" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable-hdpi\key_four.png" qualifiers="hdpi-v4" type="drawable"/><file name="key_nine" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable-hdpi\key_nine.png" qualifiers="hdpi-v4" type="drawable"/><file name="key_one" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable-hdpi\key_one.png" qualifiers="hdpi-v4" type="drawable"/><file name="key_one1" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable-hdpi\key_one1.png" qualifiers="hdpi-v4" type="drawable"/><file name="key_pound" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable-hdpi\key_pound.png" qualifiers="hdpi-v4" type="drawable"/><file name="key_seven" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable-hdpi\key_seven.png" qualifiers="hdpi-v4" type="drawable"/><file name="key_six" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable-hdpi\key_six.png" qualifiers="hdpi-v4" type="drawable"/><file name="key_star" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable-hdpi\key_star.png" qualifiers="hdpi-v4" type="drawable"/><file name="key_three" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable-hdpi\key_three.png" qualifiers="hdpi-v4" type="drawable"/><file name="key_two" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable-hdpi\key_two.png" qualifiers="hdpi-v4" type="drawable"/><file name="key_zero" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable-hdpi\key_zero.png" qualifiers="hdpi-v4" type="drawable"/><file name="rcycle" path="D:\TraditionalT9\TraditionalT9\src\main\res\drawable-hdpi\rcycle.png" qualifiers="hdpi-v4" type="drawable"/><file name="addwordview" path="D:\TraditionalT9\TraditionalT9\src\main\res\layout\addwordview.xml" qualifiers="" type="layout"/><file name="lbuttonhold" path="D:\TraditionalT9\TraditionalT9\src\main\res\layout\lbuttonhold.xml" qualifiers="" type="layout"/><file name="lbuttonnohold" path="D:\TraditionalT9\TraditionalT9\src\main\res\layout\lbuttonnohold.xml" qualifiers="" type="layout"/><file name="mainview" path="D:\TraditionalT9\TraditionalT9\src\main\res\layout\mainview.xml" qualifiers="" type="layout"/><file name="mainviewold" path="D:\TraditionalT9\TraditionalT9\src\main\res\layout\mainviewold.xml" qualifiers="" type="layout"/><file name="menuview" path="D:\TraditionalT9\TraditionalT9\src\main\res\layout\menuview.xml" qualifiers="" type="layout"/><file name="my_list_item" path="D:\TraditionalT9\TraditionalT9\src\main\res\layout\my_list_item.xml" qualifiers="" type="layout"/><file name="rbutton" path="D:\TraditionalT9\TraditionalT9\src\main\res\layout\rbutton.xml" qualifiers="" type="layout"/><file name="symbolview" path="D:\TraditionalT9\TraditionalT9\src\main\res\layout\symbolview.xml" qualifiers="" type="layout"/><file name="add_word" path="D:\TraditionalT9\TraditionalT9\src\main\res\menu\add_word.xml" qualifiers="" type="menu"/><file path="D:\TraditionalT9\TraditionalT9\src\main\res\values\arrays.xml" qualifiers=""><string-array name="pref_inputmode_values">
+		<item>0</item>
+		<item>1</item>
+		<item>2</item>
+	</string-array><string-array name="pref_lang_titles">
+		<item>English</item>
+		<item>Russian</item>
+	</string-array><string-array name="pref_lang_defaults">
+		<item>0</item>
+	</string-array><string-array name="pref_inputmode_entries">
+		<item>Dictionary</item>
+		<item>Text</item>
+		<item>Number</item>
+	</string-array><string-array name="pref_lang_values">
+		<item>0</item>
+		<item>1</item>
+	</string-array></file><file path="D:\TraditionalT9\TraditionalT9\src\main\res\values\colors.xml" qualifiers=""><color name="candidate_background">#bbffffff</color><color name="key_shadow">#FFFFFFFF</color><color name="button_press">#FFFCBE2B</color><color name="button_focus">#FF2A9AEB</color><color name="key_text">#FF000000</color><color name="button_default">#FFA8A8A8</color><color name="candidate_other">#ff808080</color><color name="candidate_recommended">#FFE35900</color><color name="candidate_normal">#FF000000</color><color name="button_text">#FFFFFFFF</color></file><file path="D:\TraditionalT9\TraditionalT9\src\main\res\values\dimens.xml" qualifiers=""><dimen name="candidate_vertical_padding">6sp</dimen><dimen name="activity_horizontal_margin">16dp</dimen><dimen name="key_height">50dip</dimen><dimen name="activity_vertical_margin">16dp</dimen><dimen name="candidate_font_height">16sp</dimen></file><file path="D:\TraditionalT9\TraditionalT9\src\main\res\values\strings.xml" qualifiers=""><string name="main_right_lower">Options</string><string name="pref_help">"Show help</string><string name="toastLTRU">Russian</string><string name="main_left_notfound">Add word?</string><string name="updating_database">Updating dictionary database, this might take a while.</string><string name="pref_loaduserdict">Load user dictionary</string><string name="pref_loaddict">Load dictionary</string><string name="toastLTcapsOFF">lowercase</string><string name="pref_loadinguserdict">Loading user dictionary…</string><string name="symbol_next">Next Page</string><string name="pref_testfunc">Test func</string><string name="toastLTcapsSINGLE">The first capital</string><string name="pref_inputmode_desc">Default mode used for \'normal\' text entry</string><string name="main_mid">Done</string><string name="main_left_insert">Insert symbol</string><string name="add_word_blank">Blank word not added.</string><string name="toastLT_numbers">numbers</string><string name="ins_symbol">Insert Symbol</string><string name="title_activity_add_word">Add Word</string><string name="ricon_desc">Hold Icon</string><string name="ime_number">Numbers</string><string name="no_keyboard_title">Warning: No keypad/keyboard</string><string name="pref_lang_title">Multilingual support…</string><string name="pref_inputmode">Default Input Mode</string><string name="pref_backup_noext">Error: No external storage available for backup. Backup will not continue.</string><string name="database_notready">Database unavailable.</string><string name="close">Close</string><string name="add_word_exist2">Word (%1$s) already in DB for %2$s.</string><string name="updating_database_unavailable">Updating dictionary database, word input unavailable at this time.</string><string name="pref_nuke_title">Nuke IME dictionary</string><string name="toastLTEN">English</string><string name="add_word_exist1">Word (%1$s) already in DB.</string><string name="no_keyboard">This device does not have a hardware keyboard/keypad, therefore it will not function in any useful way.
+Sorry for the inconvenience.</string><string name="main_left_addword">Add word</string><string name="toastLTcapsALL">All capital</string><string name="pref_nukingdict">Nuking dictionary… Please wait…</string><string name="toastLT_text">letters</string><string name="action_settings">Settings</string><string name="pref_restoredict">Restore dictionary</string><string name="pref_querytest">Query test</string><string name="add_word">Add word</string><string name="ime_name">Traditional T9</string><string name="pref_loadingdict">Loading dictionary…</string><string name="ins_page">Page</string><string name="add_word_badchar">Cannot add word with unmappable symbol for %1$s.</string><string name="traditionalt9_settings">Traditional T9 Settings</string><string name="cancel">Cancel</string><string name="ins_smiley">Insert Smiley</string><string-array name="smileyCD">
+    <item> smile </item>
+    <item> winking </item>
+    <item> laughing </item>
+    <item> tongue </item>
+    <item> straight face </item>
+    <item> sad </item>
+    <item> non talking </item>
+    <item> nerd </item>
+    <item> crying </item>
+    <item> very crying </item>
+    
+    <item> love </item>
+    <item> heart </item>
+    <item> broken heart </item>
+    <item> flower </item>
+    <item> kiss </item>
+    <item> big grin </item>
+    <item> angry </item>
+    <item> confused </item>
+    <item> devil </item>
+    <item> dizzy </item>
+    
+    <item> dont tell anymore </item>
+    <item> bomb </item>
+    <item> dead </item>
+    <item> drooling </item>
+    <item> music </item>
+    <item> party </item>
+    <item> sacred </item>
+    <item> scared </item>
+    <item> silly </item>
+    <item> smoking </item>
+    
+    <item> smug </item>
+    <item> thinking </item>
+    <item> yawn </item>
+    <item> cat </item>
+    <item> dog </item>
+    <item> pig </item>
+    <item> clown </item>
+    <item> cool </item>
+    <item> vomit </item>
+    <item> hug </item>
+    
+    <item> sick </item>
+    <item> loser </item>
+    <item> sleeping </item>
+    <item> wave </item>
+    <item> whew </item>
+    <item>stars</item>
+    <item> drinks </item>
+    <item> baloon </item>
+    <item> lightbulb </item>
+    <item> zombie </item>
+</string-array><string name="ok">OK</string><string name="pref_loaduserdictdesc">SDcard/traditionalt9/user.lang.dict (lang: en/ru)</string><string name="pref_loaduser_notfound">Dictionary for %1$s not found. Not loading.</string><string name="updating_database_title">Updating dictionary database…</string><string name="pref_restore_warn">Backup database entries will overwrite existing database entries. Entries not in the backup will be retained. If that is not desired behaviour select \"%1$s\" before selecting this option.</string><string name="pref_backup_warn">Warning: An existing database backup exists. Do you wish to overwrite?</string><string-array name="menu1">
+    <item>Add Word</item>
+    <item>Settings</item>
+</string-array><string name="hello_world">Hello world!</string><string name="symbol_prev">Prev Page</string><string name="ime_english">English</string><string name="pref_restore_title">Restore IME database</string><string name="pref_backup_title">Backup IME database</string><string name="pref_nuke_warn">Warning: This will delete your entire dictionary. Do you wish to continue?</string><string name="main_mid_commit">Commit</string><string name="pref_load_title">Load IME dictionary</string><string name="main_right_upper">Cycle Mode</string><string name="updating_database_done">Updating dictionary database complete.</string><string name="help_url">https://github.com/Clam-/TraditionalT9/wiki/Traditional-T9-keypad-IME-for-Android</string><string name="pref_restore_nofile">Error: Backup file not found.</string><string name="pref_loadingbackup">Restoring dictionary…</string><string name="app_name">Traditional T9</string><string name="pref_backupdict">Backup dictionary</string><string name="toastLT_T9">T9</string><string name="pref_nukedict">Nuke dictionary</string><string name="word_not_found">Word not found</string><string name="pref_restore_noext">Error: No external storage available for restoring. Restore will not continue.</string><string name="pref_savingbackup">Backing up dictionary…</string></file><file path="D:\TraditionalT9\TraditionalT9\src\main\res\values\styles.xml" qualifiers=""><style name="AppBaseTheme" parent="android:Theme.Light">
+		<!--
+			Theme customizations available in newer API levels can go in
+			res/values-vXX/styles.xml, while customizations related to
+			backward-compatibility can go here.
+		-->
+	</style><style name="AppTheme" parent="AppBaseTheme">
+		<!-- All customizations that are NOT specific to a particular API-level can go here. -->
+	</style></file><file path="D:\TraditionalT9\TraditionalT9\src\main\res\values-ru\arrays.xml" qualifiers="ru"><string-array name="pref_inputmode_entries">
+        <item>Словарь</item>
+        <item>Текст</item>
+        <item>Цифры</item>
+    </string-array><string-array name="pref_lang_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array><string-array name="pref_inputmode_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array><string-array name="pref_lang_defaults">
+        <item>0</item>
+    </string-array><string-array name="pref_lang_titles">
+        <item>English</item>
+        <item>Русский</item>
+    </string-array></file><file path="D:\TraditionalT9\TraditionalT9\src\main\res\values-ru\strings.xml" qualifiers="ru"><string name="toastLT_T9">T9</string><string name="ime_number">Цифры</string><string name="cancel">Отмена</string><string name="pref_load_title">Загрузить словарь IME</string><string name="ins_page"> </string><string name="pref_loaduserdictdesc">SDcard/traditionalt9/user.lang.dict (lang: en/ru)</string><string name="add_word">Добавить слово</string><string name="pref_nukedict">Очистить словарь</string><string name="pref_nuke_warn">Предупреждение:\n Будет выполнена очстка словаря. Продолжить?</string><string name="main_mid_commit">Commit</string><string name="pref_help">О программе</string><string name="main_right_lower">Изменить IME</string><string name="word_not_found">Слово не найдено</string><string name="main_left_notfound">Добавить слово?</string><string name="toastLT_numbers">цифры</string><string name="pref_russiansupport">Включить поддержку Русского языка</string><string-array name="menu1">
+    <item>Добавить слово</item>
+    <item>Настройки</item>
+</string-array><string name="symbol_prev">Предыдущая страница</string><string name="ins_smiley">Вставить смайл</string><string name="pref_backup_noext">Ошибка: Внешняя память недоступна. Резервное копирование невозможно невозможно.</string><string name="pref_loadingbackup">Восстановление словаря...</string><string name="pref_lang_title">Мультиязычная поддержка</string><string name="traditionalt9_settings">Traditional T9 настройки</string><string name="toastLTcapsALL">Все заглавные</string><string name="pref_querytest">Query test</string><string name="main_left_insert">вставить символ</string><string name="pref_savingbackup">Сохранение словаря...</string><string name="pref_loadingdict">Загрузка словаря</string><string name="ins_symbol">Вставить символ</string><string name="main_right_upper">Режим ввода</string><string name="ime_name">Клавиатура T9</string><string name="pref_inputmode_desc">Режим ввода по умолчанию</string><string name="app_name">Traditional T9</string><string name="pref_restore_title">Восстановить базу данных IME</string><string name="add_word_exist2">Слово (%1$s) уже есть в словаре %2$s.</string><string name="pref_nuke_title">Очистить IME словарь</string><string name="title_activity_add_word">Добавить слово</string><string name="add_word_exist1">Слово (%1$s) уже есть в словаре.</string><string name="pref_testfunc">Test func</string><string name="toastLTEN">Английский</string><string name="add_word_blank">Невозможно добавить слово.</string><string name="main_left_addword">Добавить слово</string><string name="action_settings">Настройки</string><string name="pref_backup_warn">Предупреждение: Существующая копия базы данных будет перезаписана. Продолжить?</string><string name="pref_backupdict">Бэкап словаря</string><string name="ime_english">T9</string><string name="toastLTcapsOFF">нижний регистр</string><string name="pref_inputmode">Режим ввода по умолчанию</string><string name="symbol_next">Следущая страница</string><string name="pref_loaduserdict">Загрузить свой словарь</string><string name="main_mid">Готово</string><string name="pref_loaddict">Загрузить словарь</string><string name="pref_restore_nofile">Ошибка: Файл встановления не найден.</string><string name="toastLTcapsSINGLE">Первая заглавная</string><string name="ricon_desc">Hold Icon</string><string-array name="smileyCD">
+    <item> улыбка </item>
+    <item> улыбка с подмигиванием </item>
+    <item> смеется </item>
+    <item> показать язык </item>
+    <item> без эмоций </item>
+    <item> грустный </item>
+    <item> рот на замке </item>
+    <item> ботаник </item>
+    <item> плачет </item>
+    <item> рыдает </item>
+    
+    <item> влюбленный </item>
+    <item> сердце </item>
+    <item> разбитое сердце </item>
+    <item> цветок </item>
+    <item> поцелуй </item>
+    <item> широкая улыбка </item>
+    <item> злой </item>
+    <item> сконфужен </item>
+    <item> дьявол </item>
+    <item> головокружение </item>
+    
+    <item> ничего не говорить </item>
+    <item> бомба </item>
+    <item> умер </item>
+    <item> пускает слюни </item>
+    <item> слушает музыку </item>
+    <item> вечеринка </item>
+    <item> свято </item>
+    <item> испуганный </item>
+    <item> глупый </item>
+    <item> курит </item>
+    
+    <item> крутой </item>
+    <item> думает </item>
+    <item> зевает </item>
+    <item> кошка </item>
+    <item> собака </item>
+    <item> свинья </item>
+    <item> клоун </item>
+    <item> классно </item>
+    <item> тошнит </item>
+    <item> обнимает </item>
+    
+    <item> болен </item>
+    <item> неудачник </item>
+    <item> спит </item>
+    <item> на волне </item>
+    <item> устали </item>
+    <item>падающие звезды</item>
+    <item> пьет </item>
+    <item> шарик </item>
+    <item> появилась идея </item>
+    <item> зомби </item>
+</string-array><string name="hello_world">Hello world!</string><string name="ok">OK</string><string name="pref_restoredict">Сохранить словарь</string><string name="pref_backup_title">Резервное копирование базы данных IME</string><string name="toastLT_text">буквы</string><string name="pref_restore_warn">При восстановлении существующая база данных будет очищена. Если это нежелательно, то сначала выберите \"%1$s\" перед использованием этой опции.</string><string-array name="symbolCD">
+    <item>точка</item>
+    <item>запятая</item>
+    <item>восклицательный знак</item>
+    <item>знак вопроса</item>
+    <item>доллар</item>
+    <item>знак энд</item>
+    <item>процент</item>
+    <item>решетка</item>
+    <item>собака</item>
+    <item>кавычка</item>
+    
+    <item>апастроф</item>
+    <item>двоеточие</item>
+    <item>точка с запятой</item>
+    <item>открывающая круглая скобка</item>
+    <item>закрывающая круглая скобка</item>
+    <item>косая черта</item>
+    <item>обратная косая черта</item>
+    <item>минус</item>
+    <item>плюс</item>
+    <item>равно</item>
+    
+    <item>звёздочка</item>
+    <item>открывающая угловая скобка</item>
+    <item>закрывающая угловая скобка</item>
+    <item>открывающая квадратная скобка</item>
+    <item>закрывающая квадратная скобка</item>
+    <item>открывающая фигурная скобка</item>
+    <item>закрывающая фигурная скобка</item>
+    <item>знак вставки</item>
+    <item>вертикальная черта</item>
+    <item>знак подчеркивания</item>
+    
+    <item>тильда</item>
+    <item>гравис</item>
+    <item>знак номера</item>    
+    <item>знак бесконечности</item>
+    <item>знак ома</item>
+    <item>копирайт</item>
+    <item>открывающая угловая кавычка</item>
+    <item>закрывающая угловая кавычка</item>
+    <item>знак приблизительного значения</item>
+    <item>многоточие</item>
+</string-array><string name="add_word_badchar">Невозможно добавить слово с таким символом %1$s.</string><string name="toastLTRU">Русский</string><string name="pref_restore_noext">Ошибка: Внешняя память недоступна. Восстановление невозможно.</string><string name="pref_loadinguserdict">Загрузка пользовательского словаря...</string><string name="pref_nukingdict">Очистка словаря...\n Пожалуйста, подождите...</string></file><file name="method" path="D:\TraditionalT9\TraditionalT9\src\main\res\xml\method.xml" qualifiers="" type="xml"/><file name="prefs" path="D:\TraditionalT9\TraditionalT9\src\main\res\xml\prefs.xml" qualifiers="" type="xml"/></source><source path="D:\TraditionalT9\TraditionalT9\build\generated\res\rs\debug"/><source path="D:\TraditionalT9\TraditionalT9\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="D:\TraditionalT9\TraditionalT9\src\debug\res"/></dataSet><mergedItems/></merger>

@@ -1,0 +1,239 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .idea\
+* .idea\.name
+* .idea\compiler.xml
+* .idea\copyright\
+* .idea\copyright\profiles_settings.xml
+* .idea\misc.xml
+* .idea\modules.xml
+* .idea\vcs.xml
+* .idea\workspace.xml
+* README.md
+* TraditionalT9\
+* TraditionalT9\build.gradle
+* TraditionalT9\src\
+* TraditionalT9\src\main\
+* TraditionalT9\src\main\AndroidManifest.xml
+* TraditionalT9\src\main\assets\
+* TraditionalT9\src\main\assets\en-utf8.txt
+* TraditionalT9\src\main\assets\ru-utf8.txt
+* TraditionalT9\src\main\java\
+* TraditionalT9\src\main\java\com\
+* TraditionalT9\src\main\java\com\stackoverflow\
+* TraditionalT9\src\main\java\com\stackoverflow\answer\
+* TraditionalT9\src\main\java\com\stackoverflow\answer\UnicodeBOMInputStream.java
+* TraditionalT9\src\main\java\org\
+* TraditionalT9\src\main\java\org\nyanya\
+* TraditionalT9\src\main\java\org\nyanya\android\
+* TraditionalT9\src\main\java\org\nyanya\android\traditionalt9\
+* TraditionalT9\src\main\java\org\nyanya\android\traditionalt9\AbsSymDialog.java
+* TraditionalT9\src\main\java\org\nyanya\android\traditionalt9\AddWordAct.java
+* TraditionalT9\src\main\java\org\nyanya\android\traditionalt9\CandidateView.java
+* TraditionalT9\src\main\java\org\nyanya\android\traditionalt9\CharMap.java
+* TraditionalT9\src\main\java\org\nyanya\android\traditionalt9\DBException.java
+* TraditionalT9\src\main\java\org\nyanya\android\traditionalt9\DBUpdateService.java
+* TraditionalT9\src\main\java\org\nyanya\android\traditionalt9\InterfaceHandler.java
+* TraditionalT9\src\main\java\org\nyanya\android\traditionalt9\LangHelper.java
+* TraditionalT9\src\main\java\org\nyanya\android\traditionalt9\Menu1.java
+* TraditionalT9\src\main\java\org\nyanya\android\traditionalt9\SmileyDialog.java
+* TraditionalT9\src\main\java\org\nyanya\android\traditionalt9\SymbolDialog.java
+* TraditionalT9\src\main\java\org\nyanya\android\traditionalt9\T9DB.java
+* TraditionalT9\src\main\java\org\nyanya\android\traditionalt9\TraditionalT9.java
+* TraditionalT9\src\main\java\org\nyanya\android\traditionalt9\TraditionalT9Settings.java
+* TraditionalT9\src\main\java\org\nyanya\android\traditionalt9\Utils.java
+* TraditionalT9\src\main\java\pl\
+* TraditionalT9\src\main\java\pl\wavesoftware\
+* TraditionalT9\src\main\java\pl\wavesoftware\widget\
+* TraditionalT9\src\main\java\pl\wavesoftware\widget\MultiSelectListPreference.java
+* TraditionalT9\src\main\res\
+* TraditionalT9\src\main\res\drawable-hdpi\
+* TraditionalT9\src\main\res\drawable-hdpi\holdicon.png
+* TraditionalT9\src\main\res\drawable-hdpi\ic_launcher.png
+* TraditionalT9\src\main\res\drawable-hdpi\ime_en_lang_lower.png
+* TraditionalT9\src\main\res\drawable-hdpi\ime_en_lang_single.png
+* TraditionalT9\src\main\res\drawable-hdpi\ime_en_lang_upper.png
+* TraditionalT9\src\main\res\drawable-hdpi\ime_en_text_lower.png
+* TraditionalT9\src\main\res\drawable-hdpi\ime_en_text_single.png
+* TraditionalT9\src\main\res\drawable-hdpi\ime_en_text_upper.png
+* TraditionalT9\src\main\res\drawable-hdpi\ime_number.png
+* TraditionalT9\src\main\res\drawable-hdpi\ime_ru_lang_lower.png
+* TraditionalT9\src\main\res\drawable-hdpi\ime_ru_lang_single.png
+* TraditionalT9\src\main\res\drawable-hdpi\ime_ru_lang_upper.png
+* TraditionalT9\src\main\res\drawable-hdpi\ime_ru_text_lower.png
+* TraditionalT9\src\main\res\drawable-hdpi\ime_ru_text_single.png
+* TraditionalT9\src\main\res\drawable-hdpi\ime_ru_text_upper.png
+* TraditionalT9\src\main\res\drawable-hdpi\key_eight.png
+* TraditionalT9\src\main\res\drawable-hdpi\key_five.png
+* TraditionalT9\src\main\res\drawable-hdpi\key_four.png
+* TraditionalT9\src\main\res\drawable-hdpi\key_nine.png
+* TraditionalT9\src\main\res\drawable-hdpi\key_one.png
+* TraditionalT9\src\main\res\drawable-hdpi\key_one1.png
+* TraditionalT9\src\main\res\drawable-hdpi\key_pound.png
+* TraditionalT9\src\main\res\drawable-hdpi\key_seven.png
+* TraditionalT9\src\main\res\drawable-hdpi\key_six.png
+* TraditionalT9\src\main\res\drawable-hdpi\key_star.png
+* TraditionalT9\src\main\res\drawable-hdpi\key_three.png
+* TraditionalT9\src\main\res\drawable-hdpi\key_two.png
+* TraditionalT9\src\main\res\drawable-hdpi\key_zero.png
+* TraditionalT9\src\main\res\drawable-hdpi\rcycle.png
+* TraditionalT9\src\main\res\drawable\
+* TraditionalT9\src\main\res\drawable\angry.png
+* TraditionalT9\src\main\res\drawable\balloon.png
+* TraditionalT9\src\main\res\drawable\bggradient.xml
+* TraditionalT9\src\main\res\drawable\big_grin.png
+* TraditionalT9\src\main\res\drawable\bomb.png
+* TraditionalT9\src\main\res\drawable\broken_heart.png
+* TraditionalT9\src\main\res\drawable\button_custom.xml
+* TraditionalT9\src\main\res\drawable\button_grad.xml
+* TraditionalT9\src\main\res\drawable\button_grad_press.xml
+* TraditionalT9\src\main\res\drawable\button_gradient.xml
+* TraditionalT9\src\main\res\drawable\button_gradient_blue.xml
+* TraditionalT9\src\main\res\drawable\button_gradient_orange.xml
+* TraditionalT9\src\main\res\drawable\cat.png
+* TraditionalT9\src\main\res\drawable\clown.png
+* TraditionalT9\src\main\res\drawable\confused.png
+* TraditionalT9\src\main\res\drawable\cool.png
+* TraditionalT9\src\main\res\drawable\crying.png
+* TraditionalT9\src\main\res\drawable\crying2.png
+* TraditionalT9\src\main\res\drawable\dead.png
+* TraditionalT9\src\main\res\drawable\devil.png
+* TraditionalT9\src\main\res\drawable\dizzy.png
+* TraditionalT9\src\main\res\drawable\dog.png
+* TraditionalT9\src\main\res\drawable\dont_tell_anyone.png
+* TraditionalT9\src\main\res\drawable\drinks.png
+* TraditionalT9\src\main\res\drawable\drooling.png
+* TraditionalT9\src\main\res\drawable\flower.png
+* TraditionalT9\src\main\res\drawable\heart.png
+* TraditionalT9\src\main\res\drawable\holdicon.png
+* TraditionalT9\src\main\res\drawable\hug.png
+* TraditionalT9\src\main\res\drawable\ic_launcher.png
+* TraditionalT9\src\main\res\drawable\ime_en_lang_lower.png
+* TraditionalT9\src\main\res\drawable\ime_en_lang_single.png
+* TraditionalT9\src\main\res\drawable\ime_en_lang_upper.png
+* TraditionalT9\src\main\res\drawable\ime_en_text_lower.png
+* TraditionalT9\src\main\res\drawable\ime_en_text_single.png
+* TraditionalT9\src\main\res\drawable\ime_en_text_upper.png
+* TraditionalT9\src\main\res\drawable\ime_number.png
+* TraditionalT9\src\main\res\drawable\ime_ru_lang_lower.png
+* TraditionalT9\src\main\res\drawable\ime_ru_lang_single.png
+* TraditionalT9\src\main\res\drawable\ime_ru_lang_upper.png
+* TraditionalT9\src\main\res\drawable\ime_ru_text_lower.png
+* TraditionalT9\src\main\res\drawable\ime_ru_text_single.png
+* TraditionalT9\src\main\res\drawable\ime_ru_text_upper.png
+* TraditionalT9\src\main\res\drawable\kiss.png
+* TraditionalT9\src\main\res\drawable\laughing.png
+* TraditionalT9\src\main\res\drawable\ligthbulb.png
+* TraditionalT9\src\main\res\drawable\location.png
+* TraditionalT9\src\main\res\drawable\loser.png
+* TraditionalT9\src\main\res\drawable\love.png
+* TraditionalT9\src\main\res\drawable\music.png
+* TraditionalT9\src\main\res\drawable\nerd.png
+* TraditionalT9\src\main\res\drawable\not_talking.png
+* TraditionalT9\src\main\res\drawable\num0.png
+* TraditionalT9\src\main\res\drawable\num1.png
+* TraditionalT9\src\main\res\drawable\num2.png
+* TraditionalT9\src\main\res\drawable\num3.png
+* TraditionalT9\src\main\res\drawable\num4.png
+* TraditionalT9\src\main\res\drawable\num5.png
+* TraditionalT9\src\main\res\drawable\num6.png
+* TraditionalT9\src\main\res\drawable\num7.png
+* TraditionalT9\src\main\res\drawable\num8.png
+* TraditionalT9\src\main\res\drawable\num9.png
+* TraditionalT9\src\main\res\drawable\numstar.png
+* TraditionalT9\src\main\res\drawable\page_next.png
+* TraditionalT9\src\main\res\drawable\page_prev.png
+* TraditionalT9\src\main\res\drawable\party.png
+* TraditionalT9\src\main\res\drawable\pig.png
+* TraditionalT9\src\main\res\drawable\poundkey.png
+* TraditionalT9\src\main\res\drawable\rcycle.png
+* TraditionalT9\src\main\res\drawable\sacred.png
+* TraditionalT9\src\main\res\drawable\sad.png
+* TraditionalT9\src\main\res\drawable\scared.png
+* TraditionalT9\src\main\res\drawable\sick.png
+* TraditionalT9\src\main\res\drawable\silly.png
+* TraditionalT9\src\main\res\drawable\sleeping.png
+* TraditionalT9\src\main\res\drawable\smile.png
+* TraditionalT9\src\main\res\drawable\smiley1.gif
+* TraditionalT9\src\main\res\drawable\smoking.png
+* TraditionalT9\src\main\res\drawable\smug.png
+* TraditionalT9\src\main\res\drawable\stars.png
+* TraditionalT9\src\main\res\drawable\straight_face.png
+* TraditionalT9\src\main\res\drawable\thinking.png
+* TraditionalT9\src\main\res\drawable\tongue.png
+* TraditionalT9\src\main\res\drawable\vomit.png
+* TraditionalT9\src\main\res\drawable\wave.png
+* TraditionalT9\src\main\res\drawable\whew.png
+* TraditionalT9\src\main\res\drawable\win_bg.xml
+* TraditionalT9\src\main\res\drawable\winking.png
+* TraditionalT9\src\main\res\drawable\yawn.png
+* TraditionalT9\src\main\res\drawable\zombie.png
+* TraditionalT9\src\main\res\layout\
+* TraditionalT9\src\main\res\layout\addwordview.xml
+* TraditionalT9\src\main\res\layout\lbuttonhold.xml
+* TraditionalT9\src\main\res\layout\lbuttonnohold.xml
+* TraditionalT9\src\main\res\layout\mainview.xml
+* TraditionalT9\src\main\res\layout\mainviewold.xml
+* TraditionalT9\src\main\res\layout\menuview.xml
+* TraditionalT9\src\main\res\layout\my_list_item.xml
+* TraditionalT9\src\main\res\layout\rbutton.xml
+* TraditionalT9\src\main\res\layout\symbolview.xml
+* TraditionalT9\src\main\res\menu\
+* TraditionalT9\src\main\res\menu\add_word.xml
+* TraditionalT9\src\main\res\values-ru\
+* TraditionalT9\src\main\res\values-ru\arrays.xml
+* TraditionalT9\src\main\res\values-ru\strings.xml
+* TraditionalT9\src\main\res\values\
+* TraditionalT9\src\main\res\values\arrays.xml
+* TraditionalT9\src\main\res\values\colors.xml
+* TraditionalT9\src\main\res\values\dimens.xml
+* TraditionalT9\src\main\res\values\strings.xml
+* TraditionalT9\src\main\res\values\styles.xml
+* TraditionalT9\src\main\res\xml\
+* TraditionalT9\src\main\res\xml\method.xml
+* TraditionalT9\src\main\res\xml\prefs.xml
+* build.gradle
+* gradle\
+* gradle\wrapper\
+* gradle\wrapper\gradle-wrapper.jar
+* gradle\wrapper\gradle-wrapper.properties
+* gradlew
+* gradlew.bat
+* ic_launcher-web.png
+* settings.gradle
+* store-res\
+* store-res\TT9-1024x500.png
+* store-res\TT9-180x120.png
+* store-res\TT9-512x512.png
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => TraditionalT9\src\main\AndroidManifest.xml
+* assets\ => TraditionalT9\src\main\assets\
+* res\ => TraditionalT9\src\main\res\
+* src\ => TraditionalT9\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)
