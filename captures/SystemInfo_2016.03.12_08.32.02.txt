@@ -1,0 +1,40 @@
+Activity Resolver Table:
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        3dd371f4 org.nyanya.android.traditionalt9/.TraditionalT9Settings
+
+Service Resolver Table:
+  Non-Data Actions:
+      android.view.InputMethod:
+        16780d1d org.nyanya.android.traditionalt9/.TraditionalT9
+
+Key Set Manager:
+  [org.nyanya.android.traditionalt9]
+      Signing KeySets: 2073
+
+Packages:
+  Package [org.nyanya.android.traditionalt9] (268a9b92):
+    userId=10030 gids=[1028, 1015, 1023]
+    pkg=Package{18ec2c1e org.nyanya.android.traditionalt9}
+    codePath=/system/priv-app/org.nyanya.android.traditionalt9
+    resourcePath=/system/priv-app/org.nyanya.android.traditionalt9
+    legacyNativeLibraryDir=/system/priv-app/org.nyanya.android.traditionalt9/lib
+    primaryCpuAbi=null
+    secondaryCpuAbi=null
+    versionCode=4 targetSdk=14
+    versionName=git
+    splits=[base]
+    applicationInfo=ApplicationInfo{956e963 org.nyanya.android.traditionalt9}
+    flags=[ SYSTEM DEBUGGABLE HAS_CODE ALLOW_CLEAR_USER_DATA PRIVILEGED ]
+    dataDir=/data/data/org.nyanya.android.traditionalt9
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    timeStamp=2016-03-11 22:23:29
+    firstInstallTime=2016-02-23 08:54:13
+    lastUpdateTime=2016-03-12 04:33:26
+    signatures=PackageSignatures{1aafb960 [278d5e19]}
+    permissionsFixed=false haveGids=true installStatus=1
+    pkgFlags=[ SYSTEM DEBUGGABLE HAS_CODE ALLOW_CLEAR_USER_DATA PRIVILEGED ]
+    User 0:  installed=true hidden=false stopped=false notLaunched=false enabled=0
+    grantedPermissions:
+      android.permission.READ_EXTERNAL_STORAGE
+      android.permission.WRITE_EXTERNAL_STORAGE
